@@ -1,0 +1,6 @@
+#!/bin/bash
+echo"Версия ядра"
+uname -r
+echo "OC"
+uname -0
+
